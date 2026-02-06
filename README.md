@@ -1,7 +1,3 @@
-Here’s a simple README you can drop in:
-
----
-
 # YouTube → MP3 (CLI Thing)
 
 Small Python script to download a YouTube video and turn it into an MP3.
